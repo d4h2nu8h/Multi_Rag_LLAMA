@@ -39,7 +39,7 @@ The project consists of the following Python scripts:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/HarshMN2345/HybridRAGapproach
+    git clone https://github.com/d4h2nu8h/HybridRAGapproach
     Activate python env
     ```
 
