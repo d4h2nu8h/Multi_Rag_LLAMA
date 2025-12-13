@@ -1,0 +1,59 @@
+                            Dhanush Sambasivam
+                     College Park, MD | (240)413-8286 | sdhanush@umd.edu | LinkedIn | GitHub
+Education
+University of Maryland                                                                                     Aug 2024 – Current
+Master’s in Data Science                                                                                     College Park, MD
+Coursework: Database Management, Data Science, Mathematics, Probability & Statistics, Data Visualization, Machine Learning
+Vellore Institute of Technology                                                                           Jun 2020 – May 2024
+Bachelor of Technology in Computer Science (CGPA: 8.56/10)                                                Chennai, India
+Coursework: DSA, Data Visualization, NLP, Image Processing, Data Engineering, computer vision, Data Mining
+Technical Skills
+• Languages:       Python, R, Matlab, SQL, C++, Java. Javascript
+ • Libraries: Tableau, Microsoft Power BI, Matplotlib, Numpy, Pandas, Seaborn, Scikit-learn, Tensorflow, OpenCV, ggplot2,
+  Shapely SciPy, XGBoost, Statsmodels, Keras, plotly, PySpark, PyTorch, MLflow
+ • Concepts:  Tableau, Databricks, Python, Business Intelligence, Looker, GCP, Big Data, Data Lake, Snowflake, Business
+  Intelligence , Spark-SQL, Tableau, Data Engineer, ETL, VBA, pivot tables, Apache Spark, Big Data, GenAI, Hadoop, Docker,
+  Azure, Git, Github
+ • Certifications: Generative AI with LLM (Deeplearning.AI), Data Science Professional Certificate (IBM) , PowerBI Virtual
+  Experience (PwC Forage), Certified in Python, C, C++ (IIT, Bombay), Finance Business Analyst (Finlatics)
+Work Experience
+GAVS Technologies                                                                           Dec 2023 – Jul 2024
+Data Analyst and Automation, GenAI Team                                                                   Chennai, India
+   • Developed a Python-based automation tool to clean and transform Jira and cognos ticket data, saving 8+ hours bi-weekly.
+   • Engineered a real-time data pipeline from Jira to Tableau using SQL for data management, generating capacity planning
+   insights and improving client reporting efficiency by 25%.
+   • Built a PowerBI dashboard to replace Excel charts, enhancing insights by 40% and capturing relevant trends.
+   • Implemented performance analytics and KPI’s using Python, Excel and Power BI to optimize a ServiceNow-based ticket
+   collection app, which led to a 30% efficiency boost.
+Hexaware Technologies                                                                       May 2023 – Jul 2023
+Research and Development Intern, Innovation Labs, R&D Department                                          Chennai, India
+  • Designed and executed a comprehensive Diffusion-based Concept Art Generator Webapp working cross-functional;
+   established a centralized platform that improved art generation speed, with a measurable impact of 30%.
+   • Crafted a Question Answering system for the company by web scraping the entire company website using Selenium,
+   resulting in a 15% increase in accuracy over the existing system.
+   • Prepared a LangChain pipeline using the OpenAI API, Retrieval Augmented Generation (RAG) methodology, and text
+   vectors with GenerativeAI and Python, boosting data retrieval accuracy by 25%.
+National University of Singapore                                                                          Jun 2022 – Jul 2022
+Research Intern                                                                                                     Singapore
+  • Completed a 60-hour ”Data Analytics using Deep Learning” training and research program at NUS School of Computing
+   (SoC) and led collaborative research with Hewlett Packard Enterprises and presented the paper.
+   • Built a project to predict the Economic Freedom Index using machine learning algorithms like Artificial neural networks,
+   XGBoost, SVM, decision trees, and deep learning models, achieving 93% accuracy.
+   • Collected data, predicted, ranked, and compared over 180 countries using Python, Tableau, SQL, and Streamlit to create a
+   solution for accurate analysis and prediction of freedom index scores.
+Projects
+Meta-Learning Work-Life Balance Predictor                                                                            Dec 2023
+• Engineered a sophisticated stacking ensemble model utilizing 14 diverse regression algorithms, optimizing work-life
+  balance predictions by 94.5%.
+• Executed a comprehensive review of regression techniques, achieving a 98.5% enhancement in predictive accuracy; the
+  updated models directly influenced the strategic direction of product development.
+Prediction of Malware Attacks on IoT Devices                                                                         Jun 2023
+• Investigated malware attacks on IoT devices through machine learning techniques, concentrating on a dataset of nine
+  IoT devices from UCI.
+• Recognized Random Forest Classifier and XGBoost as premier models for forecasting malware attacks, with XGBoost
+  being the best model and training approach, which generated 97% accuracy.
+
+Leadership
+• Executive Member, IEEE Computer Society:   Conducted 5+ interactive machine learning strategic projects workshops,
+  offered insights and tools; launched a mentorship program fostering 10+ industry partnerships among participants.
+ • Head Coordinator, TechnoVIT’22:  Led a team of 5 and organized the event ”Coding in the Dark” for 200+ participants.
